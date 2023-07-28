@@ -16,7 +16,7 @@ _Try searching for _[Acroneuria perplexa](http://plecoptera.speciesfile.org/Comm
 
 ## Discover more
 
-Our [About](/about) page provides an [overview](/about#overview) of the content and its [history](/about#history), its [gaps](about#gaps), the [team](about#team) and [support](about#support) behind {{frontmatter.project}} and how _you_ can [contribute](about#contribute). You can also [contact us](/about#contact), find [help on using this TaxonPage website], [request a feature]() or [report a bug]() or dive into the [technical details](/about#technical) behind the {{frontmatter.project}}.
+Our [About](/#/about) page provides an [overview](/about#overview) of the content and its [history](/about#history), its [gaps](about#gaps), the [team](about#team) and [support](about#support) behind {{frontmatter.project}} and how _you_ can [contribute](about#contribute). You can also [contact us](/about#contact), find [help on using this TaxonPage website], [request a feature]() or [report a bug]() or dive into the [technical details](/about#technical) behind the {{frontmatter.project}}.
 
 ## Announcements
 ### Welcome to our new Plecoptera Species File Website
