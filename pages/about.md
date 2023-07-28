@@ -51,7 +51,7 @@ _Projects of this nature require expertise in many different areas, not only on 
 About our group structure, how the rules behind joining and participating are set.
 
 ### Support and Cooperation
-_This Species File functionality and content is serviced in part by the Species File Group._
+_This Species File functionality and content are made possible through services from the Species File Group._
 
 * The [Orthopterists’ Society](http://140.247.119.225/OrthSoc/) 
 * Illinois Natural History Survey
@@ -74,17 +74,19 @@ _A goal of these pages is to ensure that the underlying data behind them are acc
 * Core taxonomic data are exported to and available at the [Catalogue of Life]({https://link_to_root_taxon_page}) and its [associated API](https://link_to_api_for_pertinent_dataset).
 
 ## Technical
-Want to create your own site? This website is built completely using open-source software. Data are curated in a TaxonWorks project then shared via a TaxonWorks API.  TaxonPages accesses these shared data and renders it into the panels and pages you see here.
+Want to create your own site? This website is built completely using open-source software. Data are curated in a TaxonWorks project then shared via a TaxonWorks API. TaxonPages accesses these shared data and renders it into the panels and pages you see here.
 
 ## Related resources
 _Find out more about {{focal_taxon}} at these websites._
 
 ### Websites
-* [site name]{site url}
-* [site name]{site url}
+* [PERLA Annual News Letter](http://plecoptera.speciesfile.org/HomePage/Plecoptera/PerlaList.aspx)
+* [ILLIESIA International Journal of Stonefly Research](http://illiesia.speciesfile.org/)
+* [Larvae of the Southeastern USA: Mayfly, Stonefly, and Caddisfly Species](https://secure.touchnet.net/C20569_ustores/web/product_detail.jsp?PRODUCTID=2682&SINGLESTORE=true)
 
 ### References
-* Citation. [Citation link](doi)
+* Kondratieff BC. Larvae of the Southeastern USA Mayfly, Stonefly, and Caddisfly Species (Ephemeroptera, Plecoptera, and Trichoptera). Proceedings of the Entomological Society of Washington. 2018 Jan;120(1):235-6.
+* Morse JC, McCafferty WP, Stark BP, Jacobus LM, editors. Larvae of the southeastern USA mayfly, stonefly, and caddisfly species:(Ephemeroptera, Plecoptera, and Trichoptera). Clemson Public Service and Agriculture, Clemson University; 2017.
 
 ## Terms of Use (Copyright Guidance)
 Except where noted, content on this site licensed under the terms of the [Creative Commons Attribution License (CC-BY)](LINK). Images and other media, except where noted, please use under the [CC BY](LINK) license.
