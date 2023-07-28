@@ -3,13 +3,13 @@ title: About
 focal_taxon: Plecoptera
 focal_taxon_common_name: stoneflies
 old_website: http://plecoptera.speciesfile.org
-contact_email: user@example.com
+contact_email: lvhart2@illinois.edu, cockroachdoc@gmail.com
 copyright: COPYRIGHT
 citation: CITATION
 ---
 
 # About
-_{tag line}_
+_building community around and gathering knowledge about the world’s stoneflies_
 
 ## Overview
 The {{focal_taxon}} Species file offers a community-curated collection of richly-cited and annotated data on the taxonomy of Earth’s {{focal_taxon_common_name}}. Data found here come from a collaboratively compiled database originating in an instance of [TaxonWorks](https://taxonworks.org) managed by the [Species File Group](https://speciesfilegroup). See [Contribute](#contribute) for how you can participate. This site is built using TaxonPages, [learn more and get help](). For more on how this site is built please see the [Technical](#technical) section.
@@ -22,7 +22,7 @@ _Our old website is now a read-only resource available at [https://{{focal_taxon
 
 {How did the Species File Group come to be (shared history)}. How did this specific SF group come to be? When did we start our efforts? What are the historically important catalogs behind these data.}
 
-As of {yyyy-mm-dd} all data in the former Species File Websites were frozen and shortly thereafter migrated to TaxonWorks. As with all migrations of this nature the process is both lossy (e.g. some data could not be mapped with certainty) and improved (e.g. semantics of the new models have more precision and clarity).  The old website remains an excellent resource for fact-checking this migration. If you spot something that needs attention, please see [contribute](about#contribute)
+As of 2023-08-## all data in the former Species File Websites were frozen and shortly thereafter migrated to TaxonWorks. As with all migrations of this nature the process is both lossy (e.g. some data could not be mapped with certainty) and improved (e.g. semantics of the new models have more precision and clarity).  The old website remains an excellent resource for fact-checking this migration. If you spot something that needs attention, please see [contribute](about#contribute)
 
 ## Team
 ### Contribute
@@ -36,31 +36,33 @@ _Projects of this nature require expertise in many different areas, not only on 
 
 ### Contributors
 |name|role|
-|----|----|
-| First name Last Name | Author 
-| First name Last Name | Author |
-| First name Last Name | Editor |
-| First name Last Name | Developer |
-| First name Last Name | Community contributor |
+|:----|:----|
+| Ed DeWalt | Author | 
+| Michael D. Maehr | Author |
+| Heidi Hopkins | Author |
+| U. Neu-Becker | Author |
+| G. Stueber | Author |
+| Heidi Hopkins | Editor |
+| Lily Hart | Editor |
+| David C. Eades | Developer |
+| Peter Zwick, Max-Planck Institute | Major Contributor |
 
 ### Governance
 About our group structure, how the rules behind joining and participating are set.
 
-### Support
+### Support and Cooperation
 _This Species File functionality and content is serviced in part by the Species File Group._
 
-* {Society Logo } - Society  
-* Science Foundation {requires disclaimer}
-* An organization other entity
+* The [Orthopterists’ Society](http://140.247.119.225/OrthSoc/) 
+* Illinois Natural History Survey
+* Some data presented here are based upon work supported by the National Science Foundation (NSF) under Grant DEB 09–18805 ARRA. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the NSF.
 
 #### Funding
-Through the generous support of ... we ...
-Or Funding needed to publish our latest information ... or address data gaps
+Through the generous support of the Species File group we do sometimes have the option to fund work to address data gaps. Please [contact us](LINK) to learn more. Examples of prior supported work (LINK).
 
 ### The Species File Group
-
 #### The TaxonWorks Community
-The work revealed on this website comes from many community meetings, many hours of research, a lot of software and data model development. This includes considerable effort to support impactful culture change and potentially enhanced standards of practice for data capture, sharing resources, knowledge, and workload. Please join the our community via the [Species File Group's regular Wednesday meetings](https://speciesfilegroup.org/events.html) to add your voice to our community and learn more.
+Everyone joining us at our weekly meetings, everyone who invests efforts to capture, study, and share knowledge using and developing our software, and building on or connecting to our services, enriches our goal to support evolving our broader community efforts to describe life, together. The work revealed on this website comes from many community meetings, many hours of research, a lot of software and data model development. This includes considerable effort to support impactful culture change and potentially enhanced standards of practice for data capture, sharing resources, knowledge, and workload. Please join us any Wednesday to add your voice to our community and learn more (see [Events](https://speciesfilegroup.org/events.html)).
 
 ## Extended access
 _A goal of these pages is to ensure that the underlying data behind them are accessible in their digital format. By diversifying the ways the data are accessible (e.g. on the web page, in JSON, in Darwin Core standard), we increase the opportunities to both spot errors and provide new services and portals._
