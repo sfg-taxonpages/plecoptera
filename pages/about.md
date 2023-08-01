@@ -2,10 +2,10 @@
 title: About 
 focal_taxon: Plecoptera
 focal_taxon_common_name: stoneflies
-old_website: http://plecoptera.speciesfile.org
+old_website: http://plecoptera.archive.speciesfile.org
 contact_email: lvhart2@illinois.edu, cockroachdoc@gmail.com
-copyright: COPYRIGHT
-citation: CITATION
+copyright: (CC-BY) Except where otherwise noted, content on this site is licensed under a Creative Commons Attribution License.
+citation: DeWalt Ed, ... Plecoptera Species File <https://plecoptera.speciesfile.org> 
 ---
 
 # About
