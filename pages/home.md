@@ -12,11 +12,11 @@ The Plecoptera Species File group works to build a comprehensive source for know
 
 <autocomplete-otu class="w-80"/>
 
-_Try searching for _[Acroneuria perplexa](http://plecoptera.speciesfile.org/Common/Basic/taxa.aspx?TaxonNameID=3293)_, or start at_ Family _[Plecoptera](http://plecoptera.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1152749),_ Genus _[Taeniopterygidae Klapálek, 1905](http://plecoptera.speciesfile.org/Common/Basic/Taxa.aspx?TaxonNameID=1155286), or species [Taeniopteryx burksi](http://plecoptera.speciesfile.org/Common/Basic/taxa.aspx?TaxonNameID=2128)._
+_Try searching for species _[Acroneuria perplexa](http://plecoptera.speciesfile.org/Common/Basic/taxa.aspx?TaxonNameID=3293)_, or start at_ Family _[Capniidae](http://plecoptera.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1154419),_  or Genus _[Capnia](http://plecoptera.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1154510)._
 
 ## Discover more
 
-Our [About](/#/about) page provides an [overview](/about#overview) of the content and its [history](/about#history), its [gaps](about#gaps), the [team](about#team) and [support](about#support) behind {{frontmatter.project}} and how _you_ can [contribute](about#contribute). You can also [contact us](/about#contact), find [help on using this TaxonPage website], [request a feature]() or [report a bug]() or dive into the [technical details](/about#technical) behind the {{frontmatter.project}}.
+Our [About](/#/about) page provides an [overview](/about#overview) of the content and its [history](/about#history), its [gaps](about#gaps), the [team](about#team) and [support](about#support) behind {{frontmatter.project}} and how _you_ can [contribute](about#contribute). You can also [contact us](/about#contact), find [help on using this TaxonPage website], [request a feature]() , [report a bug]() or dive into the [technical details](/about#technical) behind the {{frontmatter.project}}.
 
 ## Announcements
 ### Welcome to our new Plecoptera Species File Website
