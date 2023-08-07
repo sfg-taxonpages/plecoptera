@@ -9,7 +9,7 @@ citation: DeWalt Ed, ... Plecoptera Species File <https://plecoptera.speciesfile
 ---
 
 # About
-_building community around and gathering knowledge about the world’s stoneflies_
+_Building community around and gathering knowledge about the world’s stoneflies_
 
 ## Overview
 The {{focal_taxon}} Species file offers a community-curated collection of richly-cited and annotated data on the taxonomy of Earth’s {{focal_taxon_common_name}}. Data found here come from a collaboratively compiled database originating in an instance of [TaxonWorks](https://taxonworks.org) managed by the [Species File Group](https://speciesfilegroup). See [Contribute](#contribute) for how you can participate. This site is built using TaxonPages, [learn more and get help](). For more on how this site is built please see the [Technical](#technical) section.
