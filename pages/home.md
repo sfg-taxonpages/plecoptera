@@ -12,7 +12,7 @@ The Plecoptera Species File group works to build a comprehensive source for know
 
 <autocomplete-otu class="w-80"/>
 
-_Try searching for species _[Acroneuria perplexa](http://plecoptera.speciesfile.org/Common/Basic/taxa.aspx?TaxonNameID=3293)_, or start at_ Family _[Capniidae](http://plecoptera.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1154419),_  or Genus _[Capnia](http://plecoptera.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1154510)._
+_Try searching for species _[Capnia atra](http://plecoptera.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1154625)_, or start at_ Family _[Capniidae](http://plecoptera.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1154419),_  or Genus _[Capnia](http://plecoptera.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1154510)._
 
 ## Discover more
 
