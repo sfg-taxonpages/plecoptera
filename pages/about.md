@@ -42,7 +42,6 @@ _Projects of this nature require expertise in many different areas, not only on 
 | Heidi Hopkins | Author |
 | U. Neu-Becker | Author |
 | G. Stueber | Author |
-| Heidi Hopkins | Editor |
 | Lily Hart | Editor |
 | David C. Eades | Developer |
 | Peter Zwick, Max-Planck Institute | Major Contributor |
