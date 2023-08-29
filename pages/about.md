@@ -84,3 +84,16 @@ _Find out more about {{focal_taxon}} at these websites._
 ## Terms of Use (Copyright Guidance)
 Except where noted, content on this site licensed under the terms of the [Creative Commons Attribution License (CC-BY)](LINK). Images and other media, except where noted, please use under the [CC BY](LINK) license.
 
+<div class="flex items-center gap-2">
+  <a
+    class="min-w-fit"
+    href="{{ app:copyright_image_link }}"
+  >
+    <img 
+      src="{{ app:copyright_image }}" 
+      alt="copyright" 
+      class="m-0"
+    >
+  </a>
+  <span>{{ app:copyright_text }}</span>
+</div>
