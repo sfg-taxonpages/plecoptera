@@ -24,7 +24,7 @@ _Try searching for "Capniidae", "Capnia", "Capnia atra", or start at [{Order}]({
                 <img alt="Anacroneuria perplexa"
                     src="http://Plecoptera.archive.speciesfile.org/HomePage/Plecoptera/img_Logo/Anacroneuria_perplexaSmall.jpg"
                     style="border-style: none;"><br>
-                <a href=""http://Plecoptera.archive.speciesfile.org/Common/Basic/taxa.aspx?TaxonNameID=3293"><i>Acroneuria perplexa</i></a>
+                <a href="http://Plecoptera.archive.speciesfile.org/Common/Basic/taxa.aspx?TaxonNameID=3293"><i>Acroneuria perplexa</i></a>
             </td>
             <td>
                 <img alt="Acroneuria abnormis"
