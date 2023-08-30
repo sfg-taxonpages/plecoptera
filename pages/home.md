@@ -30,13 +30,13 @@ _Try searching for "Capniidae", "Capnia", "Capnia atra", or start at [{Order}]({
                 <img alt="Acroneuria abnormis"
                     src="http://Plecoptera.archive.speciesfile.org/HomePage/Plecoptera/img_Logo/Acroneuria_abnormisSmall.jpg"
                     style="border-style: none;"><br>
-                <a href=""http://Plecoptera.archive.speciesfile.org/Common/Basic/taxa.aspx?TaxonNameID=3274"><i>Acroneuria abnormis</i></a>
+                <a href="http://Plecoptera.archive.speciesfile.org/Common/Basic/taxa.aspx?TaxonNameID=3274"><i>Acroneuria abnormis</i></a>
             </td>
             <td>
                 <img alt="Pteronarcys pictetii"
                     src="http://Plecoptera.archive.speciesfile.org/HomePage/Plecoptera/img_Logo/Pteronarcys_pictetiiSmall.jpg"
                     style="border-style: none;"><br>
-                <a href=""http://Plecoptera.archive.speciesfile.org/Common/Basic/taxa.aspx?TaxonNameID=3761"><i>Pteronarcys pictetii</i></a>
+                <a href="http://Plecoptera.archive.speciesfile.org/Common/Basic/taxa.aspx?TaxonNameID=3761"><i>Pteronarcys pictetii</i></a>
             </td>
         </tr>
     </tbody>
