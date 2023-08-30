@@ -9,6 +9,7 @@ The Plecoptera Species File group works to build a comprehensive source for know
 _Try searching for "Capniidae", "Capnia", "Capnia atra", or start at [{Order}]({{app:project_url}}/otu/{id}/overview), [Capniidae]({{app:project_url}}/otu/{id}/overview), or [Capnia]({{app:project_url}}/otu/{id}/overview)._
 
 <!-- _Try searching for species _[Capnia atra](http://plecoptera.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1154625)_, or start at_ Family _[Capniidae](http://plecoptera.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1154419),_  or Genus _[Capnia](http://plecoptera.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1154510)._ -->
+
 <table style="text-align: center;">
     <tbody>
         <tr>
