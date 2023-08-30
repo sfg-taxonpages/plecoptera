@@ -10,6 +10,37 @@ _Try searching for "Capniidae", "Capnia", "Capnia atra", or start at [{Order}]({
 
 <!-- _Try searching for species _[Capnia atra](http://plecoptera.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1154625)_, or start at_ Family _[Capniidae](http://plecoptera.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1154419),_  or Genus _[Capnia](http://plecoptera.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1154510)._ -->
 
+<table style="text-align: center;">
+    <tbody>
+        <tr>
+            <td>
+                <img alt="Taeniopteryx burksi"
+                    src="http://Plecoptera.archive.speciesfile.org/HomePage/Plecoptera/img_Logo/Taeniopteryx_burksiSmall.jpg"
+                    style="border-style: none;"><br>
+                <a href="http://Plecoptera.archive.speciesfile.org/Common/Basic/taxa.aspx?TaxonNameID=2128"><i>Taeniopteryx
+                        burksi</i></a>
+            </td>
+            <td>
+                <img alt="Anacroneuria perplexa"
+                    src="http://Plecoptera.archive.speciesfile.org/HomePage/Plecoptera/img_Logo/Anacroneuria_perplexaSmall.jpg"
+                    style="border-style: none;"><br>
+                <a href=""http://Plecoptera.archive.speciesfile.org/Common/Basic/taxa.aspx?TaxonNameID=3293"><i>Acroneuria perplexa</i></a>
+            </td>
+            <td>
+                <img alt="Acroneuria abnormis"
+                    src="http://Plecoptera.archive.speciesfile.org/HomePage/Plecoptera/img_Logo/Acroneuria_abnormisSmall.jpg"
+                    style="border-style: none;"><br>
+                <a href=""http://Plecoptera.archive.speciesfile.org/Common/Basic/taxa.aspx?TaxonNameID=3274"><i>Acroneuria abnormis</i></a>
+            </td>
+            <td>
+                <img alt="Pteronarcys pictetii"
+                    src="http://Plecoptera.archive.speciesfile.org/HomePage/Plecoptera/img_Logo/Pteronarcys_pictetiiSmall.jpg"
+                    style="border-style: none;"><br>
+                <a href=""http://Plecoptera.archive.speciesfile.org/Common/Basic/taxa.aspx?TaxonNameID=3761"><i>Pteronarcys pictetii</i></a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ## Discover more
 
