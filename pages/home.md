@@ -55,23 +55,3 @@ _Ed DeWalt, Michael D. Maehr, Heidi Hopkins, U. Neu-Becker, G. Stueber,  David C
 _Ed DeWalt, Lily Hart, Heidi Hopkins, 2023-08-15_  
 
 The 2024 Joint Meeting of the XVII International Conference on Ephemeroptera and XXI International Symposium on Plecoptera will take place in Turin, Italy, from 21 - 26 July 2024. The conference will be held at the Dipartimento di Scienze della Vita e Biologia dei Sistemi (Department of Life Sciences and Systems Biology) of the Università di Torino (University of Turin, Italy). See [first announcement](http://plecoptera.speciesfile.org/HomePage/Plecoptera/First_Announcement_IJM_2024.pdf) which also links to an [attendance interest form](https://docs.google.com/forms/d/e/1FAIpQLSeAkvGvVhZbO4XUyVFzF7b0EU44rH4nOniYMqsc7BQWN03ELg/viewform).
-
-<table>
-    <tbody>
-        <tr>
-            <td style="vertical-align: text-top; text-align: center; border-style: solid; border-color: Black; padding: 25px">
-                <span class="darkgreen" style="font-weight: bold; font-style: italic;">
-                    2024 XVIIth INTERNATIONAL CONFERENCE ON EPHEMEROPTERA<br>
-                    AND XXIst INTERNATIONAL SYMPOSIUM ON PLECOPTERA<br><br>
-                    <font style="font-size: 15pt">Turin, Italy</font><br><br>
-                    <a href="http://plecoptera.archive.speciesfile.org/HomePage/Plecoptera/First_Announcement_IJM_2024.pdf" target="_blank">First Announcement</a><br><br>
-                    <br><br>
-                    <font style="font-size: 10pt">
-                        2022 XVIth INTERNATIONAL CONFERENCE ON EPHEMEROPTERA<br>
-                        AND XXth INTERNATIONAL SYMPOSIUM ON PLECOPTERA<br><br></font>
-                    <a href="http://plecoptera.archive.speciesfile.org/HomePage/Plecoptera/MF_SF 2022 Program and Schedule.pdf" target="naps">Download PDF of 2022 Program</a>
-                </span>
-            </td>
-        </tr>
-    </tbody>
-</table>   
