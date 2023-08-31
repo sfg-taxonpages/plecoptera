@@ -1,7 +1,7 @@
 issue_trackers:
   - label: Data
     description: E.g. missing data that I'd like to add, misspellings, or invalid data
-    url: https://sfg-taxonpages.github.io/plecoptera/#/
+    url: https://github.com/sfg-taxonpages/plecoptera/issues
 
   - label: Website
     description: E.g. a link, panel, or other feature is not working as expected
