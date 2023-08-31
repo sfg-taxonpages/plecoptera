@@ -12,29 +12,29 @@ _Try searching for "Capniidae", "Capnia", "Capnia atra", or start at [{Order}]({
 
 <table style="text-align: center;">
     <tbody>
-        <tr>
+        <tr style="v-align: bottom;">
             <td>
                 <img alt="Taeniopteryx burksi"
-                    src="http://Plecoptera.archive.speciesfile.org/HomePage/Plecoptera/img_Logo/Taeniopteryx_burksiSmall.jpg"
+                    src="https://sfg.taxonworks.org/s/v50h1y"
                     style="border-style: none;"><br>
                 <a href="http://Plecoptera.archive.speciesfile.org/Common/Basic/taxa.aspx?TaxonNameID=2128"><i>Taeniopteryx
                         burksi</i></a>
             </td>
             <td>
                 <img alt="Anacroneuria perplexa"
-                    src="http://Plecoptera.archive.speciesfile.org/HomePage/Plecoptera/img_Logo/Anacroneuria_perplexaSmall.jpg"
+                    src="https://sfg.taxonworks.org/s/xdrwcf"
                     style="border-style: none;"><br>
                 <a href="http://Plecoptera.archive.speciesfile.org/Common/Basic/taxa.aspx?TaxonNameID=3293"><i>Acroneuria perplexa</i></a>
             </td>
             <td>
                 <img alt="Acroneuria abnormis"
-                    src="http://Plecoptera.archive.speciesfile.org/HomePage/Plecoptera/img_Logo/Acroneuria_abnormisSmall.jpg"
+                    src="https://sfg.taxonworks.org/s/58hmf8"
                     style="border-style: none;"><br>
                 <a href="http://Plecoptera.archive.speciesfile.org/Common/Basic/taxa.aspx?TaxonNameID=3274"><i>Acroneuria abnormis</i></a>
             </td>
             <td>
                 <img alt="Pteronarcys pictetii"
-                    src="http://Plecoptera.archive.speciesfile.org/HomePage/Plecoptera/img_Logo/Pteronarcys_pictetiiSmall.jpg"
+                    src="https://sfg.taxonworks.org/s/n3q58p"
                     style="border-style: none;"><br>
                 <a href="http://Plecoptera.archive.speciesfile.org/Common/Basic/taxa.aspx?TaxonNameID=3761"><i>Pteronarcys pictetii</i></a>
             </td>
