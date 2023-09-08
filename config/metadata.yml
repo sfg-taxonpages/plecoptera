@@ -3,7 +3,7 @@ metadata:
   - name: description
     content: The Plecoptera Species File is a taxonomic, nomenclatural, and bibliographic database of the stoneflies of the world, including all extant and fossil taxa.
   - name: keywords
-    content: taxonomy, species, Species File Group, SFG, Plecoptera, stoneflies, taxonpages, Plecoptera Species File.
+    content: taxonomy, species, Species File Group, Plecoptera, stoneflies, taxonpages, Plecoptera Species File
   - name: robots
     content: follow
 
