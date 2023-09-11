@@ -17,26 +17,26 @@ _Try searching for "Capniidae", "Capnia", "Capnia atra", or start at_ [Plecopter
                 <img alt="Taeniopteryx burksi"
                     src="https://sfg.taxonworks.org/s/v50h1y"
                     style="border-style: none;"><br>
-                <a href="http://Plecoptera.archive.speciesfile.org/Common/Basic/taxa.aspx?TaxonNameID=2128"><i>Taeniopteryx
+                <a href="https://sfg.taxonworks.org/tasks/otus/browse?otu_id=893674"><i>Taeniopteryx
                         burksi</i></a>
             </td>
             <td>
                 <img alt="Anacroneuria perplexa"
                     src="https://sfg.taxonworks.org/s/xdrwcf"
                     style="border-style: none;"><br>
-                <a href="http://Plecoptera.archive.speciesfile.org/Common/Basic/taxa.aspx?TaxonNameID=3293"><i>Acroneuria perplexa</i></a>
+                <a href="https://sfg.taxonworks.org/tasks/otus/browse?otu_id=895443"><i>Acroneuria perplexa</i></a>
             </td>
             <td>
                 <img alt="Acroneuria abnormis"
                     src="https://sfg.taxonworks.org/s/58hmf8"
                     style="border-style: none;"><br>
-                <a href="http://Plecoptera.archive.speciesfile.org/Common/Basic/taxa.aspx?TaxonNameID=3274"><i>Acroneuria abnormis</i></a>
+                <a href="https://sfg.taxonworks.org/tasks/otus/browse?otu_id=895760"><i>Acroneuria abnormis</i></a>
             </td>
             <td>
                 <img alt="Pteronarcys pictetii"
                     src="https://sfg.taxonworks.org/s/n3q58p"
                     style="border-style: none;"><br>
-                <a href="http://Plecoptera.archive.speciesfile.org/Common/Basic/taxa.aspx?TaxonNameID=3761"><i>Pteronarcys pictetii</i></a>
+                <a href="https://sfg.taxonworks.org/tasks/otus/browse?otu_id=896854"><i>Pteronarcys pictetii</i></a>
             </td>
         </tr>
     </tbody>
