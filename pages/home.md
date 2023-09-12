@@ -27,8 +27,8 @@ We welcome you to join us in our efforts.
       </td>
       <td>
         <img 
-          alt="Anacroneuria perplexa"
-          src="https://sfg.taxonworks.org/s/xdrwcf"
+          alt="Acroneuria perplexa"
+          src="https://sfg.taxonworks.org/s/hh01cy"
           style="border-style: none;"><br>
           <RouterLink :to="{ name: 'otus-id', params: { id: 895443 } }">
             <i>Acroneuria perplexa</i>
