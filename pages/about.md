@@ -52,9 +52,9 @@ _Plecoptera Species File functionality and content are made possible through ser
 ### The Species File Group
 The [Species File Group (SFG)](https://speciesfilegroup.org/index.html) is an endowment-funded collective of specialists whose broader goal is the advancement of biodiversity informatics. We are located at the University of Illinois, Illinois Natural History Survey. Our group supports the following software/activities: 
 
-* [TaxonWorks](taxonworks.org) - a workbench for taxonomists and natural history museums.
-* [Global Names Architecture](globalnames.org) - finding, parsing, and resolving taxon names from literature. Lead Developer: Dmitry Mozzherin.
-* [Catalogue of Life](catalogueoflife.org) - editorial group, and data assembly hub. Executive Editor Yury Roskov and Database Manager Geoff Ower.
+* [TaxonWorks](https://www.taxonworks.org) - a workbench for taxonomists and natural history museums.
+* [Global Names Architecture](https://www.globalnames.org/) - finding, parsing, and resolving taxon names from literature. Lead Developer: Dmitry Mozzherin.
+* [Catalogue of Life](https://www.catalogueoflife.org/) - editorial group, and data assembly hub. Executive Editor Yury Roskov and Database Manager Geoff Ower.
 * Taxonomic/Systematic Research supporting several insect groups.
 
 #### The TaxonWorks Community
