@@ -30,7 +30,7 @@ _We welcome you to join us in our efforts! Projects of this nature require exper
 
 
 ### Contributors
-|Name|Affilation|Role|Email|
+|Name|Affiliation|Role|Email|
 |:----|:----|:----|:----|
 | R. Edward DeWalt | University of Illinois, Illinois Natural History Survey | Author | dewalt@illinois.edu |
 | Heidi Hopkins | Ithaca College | Author | cockroachdoc@gmail.com |
