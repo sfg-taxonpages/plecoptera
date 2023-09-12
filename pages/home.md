@@ -4,11 +4,12 @@
 
 # {{ app:project_name }}
 
-The Plecoptera Species File group builds a comprehensive source for knowledge about the world’s stoneflies. Information found here includes valid names, their synonyms, bibliographic data, specimen data, images, sounds, and distributions for stoneflies of the world. Our site seeks to include and serve an expanding group of stakeholders such as taxonomists, ecologists, policy makers, and educators.
+The **Plecoptera Species File** group builds a **comprehensive source for knowledge about the world’s stoneflies**. Information found here includes _valid names, their synonyms, bibliographic data, specimen data, images, sounds, and distributions_ for stoneflies of the world. Our site seeks to include and serve an expanding group of stakeholders such as _taxonomists, ecologists, policy makers, and educators_. 
+We welcome you to join us in our efforts.
 
 <autocomplete-otu class="w-80 place-content-center" placeholder="Search by taxon name"/>
 
-Try searching any taxa from order to subspecies!
+#### Try searching any taxa from **order** to **subspecies**!
 
 <!-- _Try searching for species _[Capnia atra](http://plecoptera.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1154625)_, or start at_ Family _[Capniidae](http://plecoptera.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1154419),_  or Genus _[Capnia](http://plecoptera.speciesfile.org/Common/basic/Taxa.aspx?TaxonNameID=1154510)._ -->
 
