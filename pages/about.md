@@ -22,38 +22,39 @@ As of 2023-08-## all data in the former Species File Websites were frozen and sh
 ### Contribute
 _Projects of this nature require expertise in many different areas, not only on the taxa being treated. If you can imagine a way to contribute we'd love to hear about it._
 
-* Join the {{focal_taxon}} Species File regular support meetings at { details if these exist }./
-* Enquire about joining the researchers building this Species File: [{ProjectManager}](mailto:address@example.com).
+* Join the {{app:focal_taxon}} Species File regular support meetings at { details if these exist }./
+* Enquire about joining the researchers building this Species File: [{ProjectManager}](mailto:dewalt@illinois.edu).
 * Provide new data or to identify a problem with existing data: [{ProjectManager}](mailto:address@example.com). {Issue tracker option}.
 * Report a technical bug (e.g. broken link or button) within TaxonPages: [TaxonPages' issue tracker](https://github.com/SpeciesFileGroup/taxonpages/issues/new?assignees=&labels=bug&projects=&template=bug.yml&title=%5BBug%5D%3A+)
 * TaxonWorks and TaxonPages are open-source efforts that are [opportunities for you and others to join](https://docs.taxonworks.org/develop/contributing.html) to request new features, report bugs, or discuss use among other things.
 
 ### Contributors
-|name|role|
-|:----|:----|
-| Ed DeWalt | Author | 
-| Michael D. Maehr | Author |
-| Heidi Hopkins | Author |
-| U. Neu-Becker | Author |
-| G. Stueber | Author |
-| Lily Hart | Editor |
-| David C. Eades | Developer |
-| Peter Zwick, Max-Planck Institute | Major Contributor |
+|Name|Affilation|Role|Email|
+|:----|:----|:----|:----|
+| R. Edward DeWalt | University of Illinois, Illinois Natural History Survey | Author | dewalt@illinois.edu |
+| Heidi Hopkins | Ithaca College | Author | cockroachdoc@gmail.com |
+| U. Neu-Becker | Max-Planck Institute | Author |
+| G. Stueber | Max-Planck Institute | Author |
+| Lily Hart | University of Illinois, Illinois Natural History Survey | Editor | lvhart2@illinois.edu
 
-### Governance
-About our group structure, how the rules behind joining and participating are set.
+Please send **comments** and **questions** about the database and its development to R. Edward DeWalt (send email).  
+How to **cite** this website, please use the following format: **DeWalt, R. E., H. Hopkins, U. Neu-Becker and G. Stueber. 2023. Plecoptera Species File. [retrieval date]. <([https://sfg-taxonpages.github.io/plecoptera/#/](https://sfg-taxonpages.github.io/plecoptera/#/))>**
 
 ### Support and Cooperation
-_This Species File functionality and content are made possible through services from the Species File Group._
+_Plecoptera Species File functionality and content are made possible through services by:_
 
-* The [Orthopterists’ Society](http://140.247.119.225/OrthSoc/) 
-* Illinois Natural History Survey
-* Some data presented here are based upon work supported by the National Science Foundation (NSF) under Grant DEB 09–18805 ARRA. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the NSF.
-
-#### Funding
-Through the generous support of the Species File group we do sometimes have the option to fund work to address data gaps. Please [contact us](LINK) to learn more. Examples of prior supported work (LINK).
+* Species File Group
+* University of Illinois, Illinois Natural History Survey
+* National Science Foundation (NSF) under Grant DEB 09–18805 ARRA. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the NSF.
 
 ### The Species File Group
+The Species File Group (SFG) is an endowment-funded collective of specialists whose broader goal is the advancement of biodiversity informatics. We are located at the University of Illinois, Illinois Natural History Survey. Our group supports the following software/activities: 
+
+* [TaxonWorks](taxonworks.org) - a workbench for taxonomists and natural history museums.
+* [Global Names Architecture](globalnames.org) - finding, parsing, and resolving taxon names from literature. Lead Developer: Dmitry Mozzherin.
+* [Catalogue of Life](catalogueoflife.org) - editorial group, and data assembly hub. Executive Editor Yury Roskov and Database Manager Geoff Ower.
+* Taxonomic/Systematic Research supporting several insect groups.
+
 #### The TaxonWorks Community
 Everyone joining us at our weekly meetings, everyone who invests efforts to capture, study, and share knowledge using and developing our software, and building on or connecting to our services, enriches our goal to support evolving our broader community efforts to describe life, together. The work revealed on this website comes from many community meetings, many hours of research, a lot of software and data model development. This includes considerable effort to support impactful culture change and potentially enhanced standards of practice for data capture, sharing resources, knowledge, and workload. Please join us any Wednesday to add your voice to our community and learn more (see [Events](https://speciesfilegroup.org/events.html)).
 
