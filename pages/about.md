@@ -20,13 +20,14 @@ As of 2023-08-## all data in the former Species File Websites were frozen and sh
 
 ## Team
 ### Contribute
-_Projects of this nature require expertise in many different areas, not only on the taxa being treated. If you can imagine a way to contribute we'd love to hear about it._
+_We welcome you to join us in our efforts! Projects of this nature require expertise in many different areas, not only on the taxa being treated. Collaboration is key. Please see below how to best reach our team with your questions, concerns, suggestions, and ideas:_
 
-* Join the {{app:focal_taxon}} Species File regular support meetings at { details if these exist }./
-* Enquire about joining the researchers building this Species File: [{ProjectManager}](mailto:dewalt@illinois.edu).
-* Provide new data or to identify a problem with existing data: [{ProjectManager}](mailto:address@example.com). {Issue tracker option}.
+* Enquire about joining the researchers building this Species File: [Contact R.E. DeWalt directly](mailto:dewalt@illinois.edu).
+* Provide new data or to identify a problem with existing data: [Contact R.E. DeWalt directly](mailto:dewalt@illinois.edu).
 * Report a technical bug (e.g. broken link or button) within TaxonPages: [TaxonPages' issue tracker](https://github.com/SpeciesFileGroup/taxonpages/issues/new?assignees=&labels=bug&projects=&template=bug.yml&title=%5BBug%5D%3A+)
-* TaxonWorks and TaxonPages are open-source efforts that are [opportunities for you and others to join](https://docs.taxonworks.org/develop/contributing.html) to request new features, report bugs, or discuss use among other things.
+* **SHORTCUT**: Click the GitHub Icon in the upper right hand corner of the page to quickly report a problem regarding **Data** or this **Website**.
+* [TaxonWorks](taxonworks.org) and TaxonPages are open-source efforts that are [opportunities for you and others to join](https://docs.taxonworks.org/develop/contributing.html) to request new features, report bugs, or discuss use among other things.
+
 
 ### Contributors
 |Name|Affilation|Role|Email|
@@ -37,8 +38,9 @@ _Projects of this nature require expertise in many different areas, not only on 
 | G. Stueber | Max-Planck Institute | Author |
 | Lily Hart | University of Illinois, Illinois Natural History Survey | Editor | lvhart2@illinois.edu
 
-Please send **comments** and **questions** about the database and its development to R. Edward DeWalt (send email).  
-How to **cite** this website, please use the following format: **DeWalt, R. E., H. Hopkins, U. Neu-Becker and G. Stueber. 2023. Plecoptera Species File. [retrieval date]. <([https://sfg-taxonpages.github.io/plecoptera/#/](https://sfg-taxonpages.github.io/plecoptera/#/))>**
+
+To **cite** this website, please use the following format: **DeWalt, R. E., H. Hopkins, U. Neu-Becker and G. Stueber. 2023. Plecoptera Species File. [retrieval date]. <([https://plecoptera.speciesfile.org])>**
+
 
 ### Support and Cooperation
 _Plecoptera Species File functionality and content are made possible through services by:_
@@ -48,7 +50,7 @@ _Plecoptera Species File functionality and content are made possible through ser
 * National Science Foundation (NSF) under Grant DEB 09–18805 ARRA. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the NSF.
 
 ### The Species File Group
-The Species File Group (SFG) is an endowment-funded collective of specialists whose broader goal is the advancement of biodiversity informatics. We are located at the University of Illinois, Illinois Natural History Survey. Our group supports the following software/activities: 
+The [Species File Group (SFG)](https://speciesfilegroup.org/index.html) is an endowment-funded collective of specialists whose broader goal is the advancement of biodiversity informatics. We are located at the University of Illinois, Illinois Natural History Survey. Our group supports the following software/activities: 
 
 * [TaxonWorks](taxonworks.org) - a workbench for taxonomists and natural history museums.
 * [Global Names Architecture](globalnames.org) - finding, parsing, and resolving taxon names from literature. Lead Developer: Dmitry Mozzherin.
