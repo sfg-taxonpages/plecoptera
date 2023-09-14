@@ -9,7 +9,7 @@ _Building community around and gathering knowledge about the world’s stoneflie
 The {{app:focal_taxon}} Species File offers a community-curated collection of richly-cited and annotated data on the taxonomy of Earth’s {{app:focal_taxon_common_name}}. Plecoptera Species File is powered by [TaxonWorks](https://taxonworks.org) software managed by the [Species File Group](https://speciesfilegroup.org). See [Contribute](#contribute-or-get-help) below for how you can participate. This site is built using TaxonPages, [learn more and get help](https://github.com/SpeciesFileGroup/taxonpages).
 
 ## Gaps as Opportunity
-The Earth's biodiversity is vast, the data captured to describe it are minimal in comparison, but still immense. All projects of this nature contain gaps, i.e. opportunities for collaboration on future work, grants, and research. Known gaps in this project include {an incomplete catalog of type-material (important specimens that are linked to the names given to species}, {species names published after XXXX}, {biological associations}, {distributions from X} and more. [Contact us](#contact) if you would like to help us address these, in particular we'd like to prioritize {choose from list above}.
+The Earth's biodiversity is vast, the data captured to describe it are minimal in comparison, but still immense. All projects of this nature contain gaps, i.e. opportunities for collaboration on future work, grants, and research. Known gaps in this project include {an incomplete catalog of type-material (important specimens that are linked to the names given to species}, {species names published after XXXX}, {biological associations}, {distributions from X} and more. [Contact us](#contribute-or-get-help) if you would like to help us address these, in particular we'd like to prioritize {choose from list above}.
 
 ## History
 _Our old website is now a read-only resource available at [http://{{app:focal_taxon}}.archive.speciesfile.org](http://{{app:focal_taxon}}.archive.speciesfile.org)._
@@ -23,11 +23,8 @@ As of August 2023 all data in the former Species File Websites were frozen and s
 _We welcome you to join us in our efforts! Projects of this nature require expertise in many different areas, not only on the taxa being treated. Collaboration is key. Please see below how to best reach our team with your questions, concerns, suggestions, and ideas:_
 
 * Enquire about joining the researchers building this Species File: [Contact R.E. DeWalt directly](mailto:dewalt@illinois.edu).
-* Provide new data or to identify a problem with existing data: [Contact R.E. DeWalt directly](mailto:dewalt@illinois.edu).
-* Report a technical bug (e.g. broken link or button) within TaxonPages: [TaxonPages' issue tracker](https://github.com/SpeciesFileGroup/taxonpages/issues/new?assignees=&labels=bug&projects=&template=bug.yml&title=%5BBug%5D%3A+)
-* **SHORTCUT**: Click the GitHub Icon in the upper right hand corner of the page to quickly report a problem regarding **Data** or this **Website**.
+* [Report a problem or offer data](https://github.com/sfg-taxonpages/plecoptera) (bugs or data issues) on our issue tracker. Links are available on the top ( ![Githubimage][]) and bottom of every page.
 * [TaxonWorks](https://taxonworks.org) and TaxonPages are open-source efforts that are [opportunities for you and others to join](https://docs.taxonworks.org/develop/contributing.html) to request new features, report bugs, or discuss use among other things.
-
 
 ### Contributors
 |Name|Affiliation|Role|Email|
@@ -38,10 +35,12 @@ _We welcome you to join us in our efforts! Projects of this nature require exper
 | G. Stueber | Max-Planck Institute | Author |
 | Lily Hart | University of Illinois, Illinois Natural History Survey | Editor | lvhart2@illinois.edu
 
-To **cite** this website, please use the following format: **DeWalt, R. E., H. Hopkins, U. Neu-Becker and G. Stueber. 2023. Plecoptera Species File. [retrieval date]. <([https://plecoptera.speciesfile.org])>**
+### Cite this website
+_please use the following format:_  
+DeWalt, R. E., H. Hopkins, U. Neu-Becker and G. Stueber. 2023. Plecoptera Species File. [retrieval date]. <https://plecoptera.speciesfile.org>
 
 ### Support and Cooperation
-_Plecoptera Species File functionality and content are made possible through services by:_
+_Plecoptera Species File functionality and content are made possible through services from:_
 
 * Species File Group
 * University of Illinois, Illinois Natural History Survey
