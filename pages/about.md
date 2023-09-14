@@ -26,7 +26,7 @@ _We welcome you to join us in our efforts! Projects of this nature require exper
 * Provide new data or to identify a problem with existing data: [Contact R.E. DeWalt directly](mailto:dewalt@illinois.edu).
 * Report a technical bug (e.g. broken link or button) within TaxonPages: [TaxonPages' issue tracker](https://github.com/SpeciesFileGroup/taxonpages/issues/new?assignees=&labels=bug&projects=&template=bug.yml&title=%5BBug%5D%3A+)
 * **SHORTCUT**: Click the GitHub Icon in the upper right hand corner of the page to quickly report a problem regarding **Data** or this **Website**.
-* [TaxonWorks](taxonworks.org) and TaxonPages are open-source efforts that are [opportunities for you and others to join](https://docs.taxonworks.org/develop/contributing.html) to request new features, report bugs, or discuss use among other things.
+* [TaxonWorks](https://taxonworks.org) and TaxonPages are open-source efforts that are [opportunities for you and others to join](https://docs.taxonworks.org/develop/contributing.html) to request new features, report bugs, or discuss use among other things.
 
 
 ### Contributors
@@ -50,9 +50,9 @@ _Plecoptera Species File functionality and content are made possible through ser
 ### The Species File Group
 The [Species File Group (SFG)](https://speciesfilegroup.org/index.html) is an endowment-funded collective of specialists whose broader goal is the advancement of biodiversity informatics. We are located at the University of Illinois, Illinois Natural History Survey. Our group supports the following software/activities: 
 
-* [TaxonWorks](https://www.taxonworks.org) - a workbench for taxonomists and natural history museums.
-* [Global Names Architecture](https://www.globalnames.org/) - finding, parsing, and resolving taxon names from literature. Lead Developer: Dmitry Mozzherin.
-* [Catalogue of Life](https://www.catalogueoflife.org/) - editorial group, and data assembly hub. Executive Editor Yury Roskov and Database Manager Geoff Ower.
+* [TaxonWorks](https://taxonworks.org) - a workbench for taxonomists and natural history museums.
+* [Global Names Architecture](https://globalnames.org/) - finding, parsing, and resolving taxon names from literature. Lead Developer: Dmitry Mozzherin.
+* [Catalogue of Life](https://catalogueoflife.org/) - editorial group, and data assembly hub. Executive Editor Yury Roskov and Database Manager Geoff Ower.
 * Taxonomic/Systematic Research supporting several insect groups.
 
 #### The TaxonWorks Community
