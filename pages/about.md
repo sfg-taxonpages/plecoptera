@@ -37,7 +37,7 @@ _We welcome you to join us in our efforts! Projects of this nature require exper
 | Name             | Affiliation                                             | Role   | Email                  |
 | :--------------- | :------------------------------------------------------ | :----- | :--------------------- |
 | R. Edward DeWalt | University of Illinois, Illinois Natural History Survey | Author | dewalt@illinois.edu    |
-| Heidi Hopkins    | Ithaca College                                          | Author | cockroachdoc@gmail.com |
+| Heidi Hopkins    | University of Illinois, Illinois Natural HIstory Survey | Author | cockroachdoc@gmail.com |
 | U. Neu-Becker    | Max-Planck Institute                                    | Author |
 | G. Stueber       | Max-Planck Institute                                    | Author |
 | Lily Hart        | University of Illinois, Illinois Natural History Survey | Editor | lvhart2@illinois.edu   |
