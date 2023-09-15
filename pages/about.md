@@ -45,7 +45,7 @@ _We welcome you to join us in our efforts! Projects of this nature require exper
 ### Cite this website
 
 _please use the following format:_  
-DeWalt, R. E., H. Hopkins, U. Neu-Becker and G. Stueber. 2023. Plecoptera Species File. [retrieval date]. <https://plecoptera.speciesfile.org>
+DeWalt RE, Hopkins H, Neu-Becker U, and Stueber G. 2023. Plecoptera Species File. [retrieval date]. <https://plecoptera.speciesfile.org>
 
 ### Support and Cooperation
 
