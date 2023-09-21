@@ -30,7 +30,7 @@ We welcome you to join us in our efforts.
           alt="Acroneuria perplexa"
           src="https://sfg.taxonworks.org/s/hh01cy"
           style="border-style: none;"><br>
-          <RouterLink :to="{ name: 'otus-id', params: { id: 895443 } }">
+          <RouterLink :to="{ name: 'otus-id', params: { id: 895791 } }">
             <i>Acroneuria perplexa</i>
           </RouterLink>
       </td>
