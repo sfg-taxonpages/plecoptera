@@ -20,7 +20,7 @@ _Our old website is now a read-only resource available at [http://{{app:focal_ta
 
 {How did the Species File Group come to be (shared history)}. How did this specific SF group come to be? When did we start our efforts? What are the historically important catalogs behind these data.}
 
-As of August 2023 all data in the former Species File Websites were frozen and shortly thereafter migrated to TaxonWorks. As with all migrations of this nature the process is both lossy (e.g. some data could not be mapped with certainty) and improved (e.g. semantics of the new models have more precision and clarity). The old website remains an excellent resource for fact-checking this migration. If you spot something that needs attention, please see [contribute](about#contribute-or-get-help).
+As of August 2023 all data in the former Species File Websites were frozen and shortly thereafter migrated to TaxonWorks. As with all migrations of this nature the process is both lossy (e.g. some data could not be mapped with certainty) and improved (e.g. semantics of the new models have more precision and clarity). The old website remains an excellent resource for fact-checking this migration. If you spot something that needs attention, please see [contribute or get help](about#contribute-or-get-help).
 
 ## Team
 
@@ -76,7 +76,7 @@ _A goal of these pages is to ensure that the underlying data behind them are acc
 - Data behind individual panels can be seen via the _SiteMap_ functionality.
 - Each page offers an option to download a _DarwinCore formatted table_ containing all data for this taxon and its children.
 - Panel data (each section on a page) and other data not available here are accessible via a [TaxonWorks API](https://api.taxonworks.org) at [https://sfg.taxonworks.org/api/v1](https://sfg.taxonworks.org/api/v1),
-- Core taxonomic data are exported to and available at the [Catalogue of Life](https://www.catalogueoflife.org/data/taxon/62372) and its [associated API](https://link_to_api_for_pertinent_dataset).
+- Core taxonomic data are exported to and available at the [Catalogue of Life](https://www.catalogueoflife.org/data/taxon/62372) and its [associated API](https://api.checklistbank.org/dataset/3LR/taxon/62372).
 
 ### Websites
 
