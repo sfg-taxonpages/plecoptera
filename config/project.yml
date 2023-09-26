@@ -3,7 +3,7 @@
   project_citation: 'Plecoptera Species File'
   project_authors: 'DeWalt RE, Hopkins H, Neu-Becker U, and Stueber G.'
   project_url: 'https://plecoptera.speciesfile.org'
-  project_old_url: 'https://plecoptera.archive.speciesfile.org'
+  project_old_url: 'http://plecoptera.archive.speciesfile.org'
   focal_taxon: 'Plecoptera'
   focal_taxon_common_name: 'stoneflies'
   contact_email: 'dewalt@illinois.edu'
