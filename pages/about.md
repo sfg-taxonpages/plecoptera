@@ -29,7 +29,7 @@ As of August 2023 all data in the former Species File Websites were frozen and s
 _We welcome you to join us in our efforts! Projects of this nature require expertise in many different areas, not only on the taxa being treated. Collaboration is key. Please see below how to best reach our team with your questions, concerns, suggestions, and ideas:_
 
 - Enquire about joining the researchers building this Species File: [Contact R.E. DeWalt directly](mailto:dewalt@illinois.edu).
-- <TrackerReport label="Report a problem or offer data" tag="a"/> (bugs or data issues) on our issue tracker.
+- <TrackerReport label="Report a problem or offer data" tag="a" button-class="cursor-pointer"/> (bugs or data issues) on our issue tracker.
 - [TaxonWorks](https://taxonworks.org) and TaxonPages are open-source efforts that are [opportunities for you and others to join](https://docs.taxonworks.org/develop/contributing.html) to request new features, report bugs, or discuss use among other things.
 
 ### Contributors
