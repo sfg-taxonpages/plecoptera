@@ -7,7 +7,7 @@
 The **Plecoptera Species File** group builds a **comprehensive source for knowledge about the world’s stoneflies**. Information found here includes _valid names, their synonyms, bibliographic data, specimen data, images, sounds, and distributions_ for stoneflies of the world. Our site seeks to include and serve an expanding group of stakeholders such as _taxonomists, ecologists, policy makers, and educators_. 
 We welcome you to join us in our efforts.
 
-<autocomplete-otu class="w-80 place-content-center" placeholder="Search by taxon name"/>
+<autocomplete-otu class="w-full sm:w-96" placeholder="Search by taxon name"/>
 
 #### Try searching any taxa from **order** to **subspecies**!
 
