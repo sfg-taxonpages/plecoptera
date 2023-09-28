@@ -8,7 +8,9 @@ _Building community around and gathering knowledge about the world’s stoneflie
 
 ## Overview
 
-The {{app:focal_taxon}} Species File offers a community-curated collection of richly-cited and annotated data on the taxonomy of Earth’s {{app:focal_taxon_common_name}}. Plecoptera Species File is powered by [TaxonWorks](https://taxonworks.org) software managed by the [Species File Group](https://speciesfilegroup.org). See [Contribute or get help](#contribute-or-get-help) below for how you can participate. This site is built using TaxonPages, [learn more and get help](https://github.com/SpeciesFileGroup/taxonpages).
+The {{app:focal_taxon}} Species File offers a community-curated collection of richly-cited and annotated data on the taxonomy of Earth’s {{app:focal_taxon_common_name}}.  The project currently includes the following- <ProjectStats :data="['Taxon names', 'Collection objects', 'Project sources', 'Documents', 'Citations', 'Images', 'Asserted distributions']"/>, along with many annotations and related data.
+
+Plecoptera Species File is powered by [TaxonWorks](https://taxonworks.org) managed by the [Species File Group](https://speciesfilegroup.org). See [Contribute or get help](#contribute-or-get-help) below for how you can participate. This site is built using TaxonPages, [learn more and get help](https://github.com/SpeciesFileGroup/taxonpages).
 
 ## Gaps as Opportunity
 
@@ -38,13 +40,16 @@ _We welcome you to join us in our efforts! Projects of this nature require exper
 | :--------------- | :------------------------------------------------------ | :----- | :--------------------- |
 | R. Edward DeWalt | University of Illinois, Illinois Natural History Survey | Author | dewalt@illinois.edu    |
 | Heidi Hopkins    | University of Illinois, Illinois Natural HIstory Survey | Author | cockroachdoc@gmail.com |
-| U. Neu-Becker    | Max-Planck Institute                                    | Author |
-| G. Stueber       | Max-Planck Institute                                    | Author |
+| U. Neu-Becker    | Max-Planck Institute                                    | Author |                        |
+| G. Stueber       | Max-Planck Institute                                    | Author |                        |
 | Lily Hart        | University of Illinois, Illinois Natural History Survey | Editor | lvhart2@illinois.edu   |
+| Matt Yoder       | University of Illinois, Illinois Natural History Survey | Facilitator |                   |
+| Rich Flood       | University of Illinois, Illinois Natural History Survey | Facilitator |                   |
 
 ### Cite this website
 
 _please use the following format:_  
+
 DeWalt RE, Hopkins H, Neu-Becker U, and Stueber G. 2023. Plecoptera Species File. [retrieval date]. <https://plecoptera.speciesfile.org>
 
 ### Support and Cooperation
@@ -82,6 +87,11 @@ _A goal of these pages is to ensure that the underlying data behind them are acc
 
 - [PERLA Annual News Letter](http://plecoptera.speciesfile.org/HomePage/Plecoptera/PerlaList.aspx)
 - [ILLIESIA International Journal of Stonefly Research](http://illiesia.speciesfile.org/)
+
+### Past meetings
+
+#### 2022 XVIth INTERNATIONAL CONFERENCE ON EPHEMEROPTERA AND XXth INTERNATIONAL SYMPOSIUM ON PLECOPTERA
+<a href="http://plecoptera.archive.speciesfile.org/HomePage/Plecoptera/MF_SF 2022 Program and Schedule.pdf" target="naps">Download PDF of 2022 Program</a>.
 
 ## Terms of Use (Copyright Guidance)
 
