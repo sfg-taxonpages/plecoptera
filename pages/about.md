@@ -14,7 +14,7 @@ Plecoptera Species File is powered by [TaxonWorks](https://taxonworks.org) manag
 
 ## Gaps as Opportunity
 
-The Earth's biodiversity is vast, the data captured to describe it are minimal in comparison, but still immense. All projects of this nature contain gaps, i.e. opportunities for collaboration on future work, grants, and research. [Contact us](#contribute-or-get-help) if you would like to help us address these, in particular we'd like to prioritize {choose from list above}.
+The Earth's biodiversity is vast, the data captured to describe it are minimal in comparison, but still immense. All projects of this nature contain gaps, i.e. opportunities for collaboration on future work, grants, and research. [Contact us](#contribute-or-get-help) if you would like to help us address these.
 
 ## History
 
