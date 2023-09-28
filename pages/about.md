@@ -14,7 +14,7 @@ Plecoptera Species File is powered by [TaxonWorks](https://taxonworks.org) manag
 
 ## Gaps as Opportunity
 
-The Earth's biodiversity is vast, the data captured to describe it are minimal in comparison, but still immense. All projects of this nature contain gaps, i.e. opportunities for collaboration on future work, grants, and research. Known gaps in this project include {an incomplete catalog of type-material (important specimens that are linked to the names given to species}, {species names published after XXXX}, {biological associations}, {distributions from X} and more. [Contact us](#contribute-or-get-help) if you would like to help us address these, in particular we'd like to prioritize {choose from list above}.
+The Earth's biodiversity is vast, the data captured to describe it are minimal in comparison, but still immense. All projects of this nature contain gaps, i.e. opportunities for collaboration on future work, grants, and research. [Contact us](#contribute-or-get-help) if you would like to help us address these, in particular we'd like to prioritize {choose from list above}.
 
 ## History
 
@@ -36,15 +36,15 @@ _We welcome you to join us in our efforts! Projects of this nature require exper
 
 ### Contributors
 
-| Name             | Affiliation                                             | Role   | Email                  |
-| :--------------- | :------------------------------------------------------ | :----- | :--------------------- |
-| R. Edward DeWalt | University of Illinois, Illinois Natural History Survey | Author | dewalt@illinois.edu    |
-| Heidi Hopkins    | University of Illinois, Illinois Natural HIstory Survey | Author | cockroachdoc@gmail.com |
-| U. Neu-Becker    | Max-Planck Institute                                    | Author |                        |
-| G. Stueber       | Max-Planck Institute                                    | Author |                        |
-| Lily Hart        | University of Illinois, Illinois Natural History Survey | Editor | lvhart2@illinois.edu   |
-| Matt Yoder       | University of Illinois, Illinois Natural History Survey | Facilitator |                   |
-| Rich Flood       | University of Illinois, Illinois Natural History Survey | Facilitator |                   |
+| Name             | Affiliation                                             | Role        | Email                  |
+| :--------------- | :------------------------------------------------------ | :---------- | :--------------------- |
+| R. Edward DeWalt | University of Illinois, Illinois Natural History Survey | Author      | dewalt@illinois.edu    |
+| Heidi Hopkins    | University of Illinois, Illinois Natural HIstory Survey | Author      | cockroachdoc@gmail.com |
+| U. Neu-Becker    | Max-Planck Institute                                    | Author      |                        |
+| G. Stueber       | Max-Planck Institute                                    | Author      |                        |
+| Lily Hart        | University of Illinois, Illinois Natural History Survey | Editor      | lvhart2@illinois.edu   |
+| Matt Yoder       | University of Illinois, Illinois Natural History Survey | Facilitator |                        |
+| Rich Flood       | University of Illinois, Illinois Natural History Survey | Facilitator |                        |
 
 ### Cite this website
 
@@ -85,7 +85,7 @@ _A goal of these pages is to ensure that the underlying data behind them are acc
 
 ### Websites
 
-- [PERLA Annual News Letter](http://plecoptera.speciesfile.org/HomePage/Plecoptera/PerlaList.aspx)
+- [PERLA Annual News Letter](http://plecoptera.archive.speciesfile.org/HomePage/Plecoptera/PerlaList.aspx)
 - [ILLIESIA International Journal of Stonefly Research](http://illiesia.speciesfile.org/)
 
 ### Past meetings
