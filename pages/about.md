@@ -8,7 +8,9 @@ _Building community around and gathering knowledge about the world’s stoneflie
 
 ## Overview
 
-The {{app:focal_taxon}} Species File offers a community-curated collection of richly-cited and annotated data on the taxonomy of Earth’s {{app:focal_taxon_common_name}}.  The project currently includes the following- <ProjectStats :data="['Taxon names', 'Collection objects', 'Project sources', 'Documents', 'Citations', 'Images', 'Asserted distributions']"/>, along with many annotations and related data.
+The {{app:focal_taxon}} Species File offers a community-curated collection of richly-cited and annotated data on the taxonomy of Earth’s {{app:focal_taxon_common_name}}. Information includes valid names, their synonyms, bibliographic data, specimen data, images, sounds, and distributions for stoneflies of the world.  The project currently includes the following- <ProjectStats :data="['Taxon names', 'Collection objects', 'Project sources', 'Documents', 'Citations', 'Images', 'Asserted distributions']"/>, along with many annotations and related data.
+
+Our site seeks to include and serve an expanding group of stakeholders such as taxonomists, ecologists, policy makers, and educators.
 
 Plecoptera Species File is powered by [TaxonWorks](https://taxonworks.org) managed by the [Species File Group](https://speciesfilegroup.org). See [Contribute or get help](#contribute-or-get-help) below for how you can participate. This site is built using TaxonPages, [learn more and get help](https://github.com/SpeciesFileGroup/taxonpages).
 
