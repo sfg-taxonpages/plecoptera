@@ -8,7 +8,7 @@ layout: blank
     <p class="text-xl px-20">A comprehensive source of knowledge on the world’s stoneflies, curated by the Plecoptera Species File group</p>
     <br>
     <div class="mx-auto flex flex-col items-center">
-      <autocomplete-otu class="w-full sm:w-96" placeholder="Search by taxon name" autofocus/>
+      <autocomplete-otu class="w-full sm:w-96 text-base-content" placeholder="Search by taxon name" autofocus/>
         <p><em>Try searching any taxa from order <router-link to="/otus/890815">Plecoptera</router-link> to subspecies!</p>
       </em>
     </div>
