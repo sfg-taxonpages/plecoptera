@@ -8,11 +8,11 @@ _Building community around and gathering knowledge about the world’s stoneflie
 
 ## Overview
 
-The {{app:focal_taxon}} Species File offers a community-curated collection of richly-cited and annotated data on the taxonomy of Earth’s {{app:focal_taxon_common_name}}. Information includes valid names, their synonyms, bibliographic data, specimen data, images, sounds, and distributions for stoneflies of the world.  The project currently includes the following- <ProjectStats :data="['Taxon names', 'Collection objects', 'Project sources', 'Documents', 'Citations', 'Images', 'Asserted distributions']"/>, along with many annotations and related data.
+The Plecoptera Species File (Plecoptera SF) offers a community-curated collection of richly-cited and annotated data on the taxonomy of Earth’s {{app:focal_taxon_common_name}}. Information includes valid names, their synonyms, bibliographic data, specimen data, images, sounds, and distributions for stoneflies of the world.  The project currently includes the following- <ProjectStats :data="['Taxon names', 'Collection objects', 'Project sources', 'Documents', 'Citations', 'Images', 'Asserted distributions']"/>, along with many annotations and related data.
 
 Our site seeks to include and serve an expanding group of stakeholders such as taxonomists, ecologists, policy makers, and educators.
 
-Plecoptera Species File is powered by [TaxonWorks](https://taxonworks.org) managed by the [Species File Group](https://speciesfilegroup.org). See [Contribute or get help](#contribute-or-get-help) below for how you can participate. This site is built using TaxonPages, [learn more and get help](https://github.com/SpeciesFileGroup/taxonpages).
+Plecoptera SF is curated in a instance of [TaxonWorks](https://taxonworks.org) managed by the [Species File Group](https://speciesfilegroup.org). See [Contribute or get help](#contribute-or-get-help) below for how you can participate. This site is built using TaxonPages, [learn more and get help](https://github.com/SpeciesFileGroup/taxonpages).
 
 ## Gaps as Opportunity
 
@@ -20,9 +20,11 @@ The Earth's biodiversity is vast, the data captured to describe it are minimal i
 
 ## History
 
-_Our old website is now a read-only resource available at [http://{{app:focal_taxon}}.archive.speciesfile.org](http://{{app:focal_taxon}}.archive.speciesfile.org)._
+_Our old website is now a read-only resource available at [http://plecoptera.archive.speciesfile.org](http://plecoptera.archive.speciesfile.org)._
 
-{How did the Species File Group come to be (shared history)}. How did this specific SF group come to be? When did we start our efforts? What are the historically important catalogs behind these data.}
+Species File Software, used to curate the Plecoptera SF during its origin and for over a decade thereafter, was developed by David Eades as a taxonomic workbench. For more information about Species File Software at the [Species File Group Homepage](https://speciesfilegroup.org/) .
+
+Plecoptera SF started with the acquisition of a database of stonefly nomenclature, taxonomy, and distribution from Peter Zwick (His contributors were U. Neu-Becker and G. Stueber, hence their authorship. Zwick declined authorship of this version) in 2007. The data were imported by Marilyn Beckman, Rich Flood, and James Tucker into the original Species File Software. Elizabeth Frank's difference tool allowed Ed DeWalt and Mike Maehr to check import quality and completeness. In 2009 Plecoptera SF was accepted by [Catalogue of Life](https://www.catalogueoflife.org/) as the global source of stonefly names and the [Global Biodiversity Information Facility](http://GBIF.org). Maehr and DeWalt continued data entry until Heidi Hopkins took over most duties in 2017. August 14, 2023 saw data entry into the old Species File Software suspended. The data were ported to our replacement TaxonWorks platform and the setup of a new public user interface in Taxon Pages began. The new website went live on Friday, 29 September 2023. Be aware that that most but not all functionality from the old site is present in the new. Some information about a taxon is now available as a standard data set in Darwin Core. If you think there is a bug or some critical data are missing, then add your request to the Issue Tracker (see Contribute or get help below, or click on the links at the bottom of this page). If you still need more information, one option is to become a collaborator with us. Send a note to DeWalt if you wish to contribute to Plecoptera SF or to use TaxonWorks as your research workbench.
 
 As of August 2023 all data in the former Species File Websites were frozen and shortly thereafter migrated to TaxonWorks. As with all migrations of this nature the process is both lossy (e.g. some data could not be mapped with certainty) and improved (e.g. semantics of the new models have more precision and clarity). The old website remains an excellent resource for fact-checking this migration. If you spot something that needs attention, please see [contribute or get help](about#contribute-or-get-help).
 
@@ -42,11 +44,17 @@ _We welcome you to join us in our efforts! Projects of this nature require exper
 | :--------------- | :------------------------------------------------------ | :---------- | :--------------------- |
 | R. Edward DeWalt | University of Illinois, Illinois Natural History Survey | Author      | dewalt@illinois.edu    |
 | Heidi Hopkins    | University of Illinois, Illinois Natural HIstory Survey | Author      | cockroachdoc@gmail.com |
+| Mike Maehr*      | University of Illinois, Illinois Natural History Survey | Author      |                        |
 | U. Neu-Becker    | Max-Planck Institute                                    | Author      |                        |
 | G. Stueber       | Max-Planck Institute                                    | Author      |                        |
 | Lily Hart        | University of Illinois, Illinois Natural History Survey | Editor      | lvhart2@illinois.edu   |
 | Matt Yoder       | University of Illinois, Illinois Natural History Survey | Facilitator |                        |
 | Rich Flood       | University of Illinois, Illinois Natural History Survey | Facilitator |                        |
+| Elizabeth Frank* | University of Illinois, Illinois Natural History Survey | Facilitator |                        |
+| Jim Tucker*      | University of Illinois, Illinois Natural History Survey | Facilitator |                        |
+| Marilyn Beckman* | University of Illinois, Illinois Natural History Survey | Facilitator |                        |
+
+_* Past contributor, now inactive._
 
 ### Cite this website
 
