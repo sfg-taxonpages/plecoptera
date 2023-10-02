@@ -1,4 +1,3 @@
-
 ---
 layout: blank
 ---
@@ -7,11 +6,11 @@ layout: blank
 
 # PERLA
 
-PERLA is the Annual Newsletter and Bibliography of the International Society of Plecopterologists. It is edited and published at the University of Illinois, Illinois Natural History Survey, Champaign, Illinois, USA, 61820. The managing editor is R. Edward DeWalt.  
+PERLA is the Annual Newsletter and Bibliography of the International Society of Plecopterologists. It is edited and published at the University of Illinois, Illinois Natural History Survey, Champaign, Illinois, USA, 61820. The managing editor is R. Edward DeWalt.
 
 ## Most recent
 
-<GalleryMosaic :depiction-id="[1106924]" image-width="100px" class="w-28"  /> 
+<GalleryMosaic :depiction-id="[1106924]" image-width="100px" class="w-28"  />
 
 [Perla No. 41. 2023.](/perla/Perla_vol_41_10-02-23.pdf)
 
