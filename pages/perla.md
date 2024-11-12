@@ -12,9 +12,11 @@ PERLA is the Annual Newsletter and Bibliography of the International Society of 
 
 <GalleryMosaic :depiction-id="[1106924]" image-width="100px" class="w-28"  />
 
-[Perla No. 41. 2023.](/perla/Perla_vol_41_10-02-23.pdf)
+[Perla No. 42. 2023.](/perla/Perla_vol_42_11-12-24.pdf)
 
 ## Past issues
+
+[Perla No. 41. 2023.](/perla/Perla_vol_41_10-02-23.pdf)
 
 The Perla newsletter is presently still available at the archived Plecoptera Species File site: [http://plecoptera.archive.speciesfile.org/HomePage/Plecoptera/PerlaList.aspx](http://plecoptera.archive.speciesfile.org/HomePage/Plecoptera/PerlaList.aspx).
 
