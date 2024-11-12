@@ -28,7 +28,11 @@ Plecoptera SF started with the acquisition of a database of stonefly nomenclatur
 
 As of August 2023 all data in the former Species File Websites were frozen and shortly thereafter migrated to TaxonWorks. As with all migrations of this nature the process is both lossy (e.g. some data could not be mapped with certainty) and improved (e.g. semantics of the new models have more precision and clarity). The old website remains an excellent resource for fact-checking this migration. If you spot something that needs attention, please see [contribute or get help](about#contribute-or-get-help).
 
-## Team
+## Do More with TaxonPages
+
+### Create a checklist of species
+
+Watch our YouTube tutorial for help with creating checklists of species using the data in Plecoptera SpeciesFile [Checklists from DarwinCore in a few clicks](https://www.youtube.com/watch?v=OrlmlqZOkwk)
 
 ### Contribute or get help
 
@@ -37,6 +41,8 @@ _We welcome you to join us in our efforts! Projects of this nature require exper
 - Enquire about joining the researchers building this Species File: [Contact R.E. DeWalt directly](mailto:dewalt@illinois.edu).
 - <TrackerReport label="Report a problem or offer data" tag="a" button-class="cursor-pointer"/> (bugs or data issues) on our issue tracker.
 - [TaxonWorks](https://taxonworks.org) and TaxonPages are open-source efforts that are [opportunities for you and others to join](https://docs.taxonworks.org/develop/contributing.html) to request new features, report bugs, or discuss use among other things.
+
+## Team
 
 ### Contributors
 
