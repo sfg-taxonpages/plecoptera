@@ -66,7 +66,7 @@ _* Past contributor, now inactive._
 
 _please use the following format:_  
 
-DeWalt RE, Hopkins H, Neu-Becker U, and Stueber G. 2025. Plecoptera Species File. [retrieval date]. <https://plecoptera.speciesfile.org>
+DeWalt RE, Hopkins H, Neu-Becker U, and Stueber G. {{ (new Date()).getFullYear() }}. Plecoptera Species File. [retrieval date]. <https://plecoptera.speciesfile.org>
 
 ### Support and Cooperation
 
