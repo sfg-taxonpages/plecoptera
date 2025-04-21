@@ -97,7 +97,7 @@ _A goal of these pages is to ensure that the underlying data behind them are acc
 - Data behind individual panels can be seen via the _SiteMap_ functionality.
 - Each page offers an option to download a _DarwinCore formatted table_ containing all data for this taxon and its children.
 - Panel data (each section on a page) and other data not available here are accessible via a [TaxonWorks API](https://api.taxonworks.org) at [https://sfg.taxonworks.org/api/v1](https://sfg.taxonworks.org/api/v1),
-- Core taxonomic data are exported to and available at the [Catalogue of Life](https://www.catalogueoflife.org/data/taxon/62372) and its [associated API](https://api.checklistbank.org/dataset/3LR/taxon/62372).
+- Core taxonomic data are exported to and available at the [Catalogue of Life](https://www.catalogueoflife.org/data/dataset/1168).
 
 ### Websites
 
