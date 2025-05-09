@@ -12,3 +12,11 @@ taxa_page:
           - panel:content
           - panel:keys
           - panel:statistics
+          - panel:etymology
+          - panel:gbif
+          - panel:sounds
+  inaturalist:
+      label: 'iNaturalist'
+      rank_group: ['GenusGroup', 'SpeciesGroup']
+      panels:
+        - - - panel:inaturalist
