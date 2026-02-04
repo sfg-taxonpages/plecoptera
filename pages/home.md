@@ -21,16 +21,12 @@ Welcome! Our [About](about) page contains an [overview](about#overview) and [his
 
 ## Announcements
 
-### Welcome to our new Plecoptera Species File Website
+### Volume 43 of Perla is ready to download! 
 
-_Ed DeWalt, Lily Hart, Heidi Hopkins, 2023-09-28_
+Click on the Perla tab in the upper right corner of your screen
 
-<p>As of Septemeber 2023, we would like to welcome you to our new Plecoptera Species File website. We’re glad you’re here and look forward to hearing from you about your experiences with our new features and how you use the information you find here.
-</p>
+### 14th North American Plecoptera Symposium occurs 12–14 May 2026 at the Highland Biological Station, Highlands, North Carolina
 
-### 2024 Joint Meeting of the XVII International Conference on Ephemeroptera and XXI International Symposium on Plecoptera in July 2024
-
-_Ed DeWalt, Lily Hart, Heidi Hopkins, 2023-08-15_
-The 2024 Joint Meeting of the XVII International Conference on Ephemeroptera and XXI International Symposium on Plecoptera will take place in Turin, Italy, from 21 - 26 July 2024. The conference will be held at the University of Turin, Italy. Click here for [First Announcement](/docs/First_Announcement_IJM_2024.pdf) or here for the subsequent [Second Announcement](/docs/Second_Announcement_IJM_2024.pdf) with scholarship details (due 30 November 2023). Click here for [2022 Joint Meeting program and presentation links](about#past-meetings).
+See [Draft Agenda](/docs/Draft Agenda 14th NAPS.pdf) with registration instructions
 
 </div>
