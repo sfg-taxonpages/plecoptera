@@ -27,6 +27,6 @@ Click on the Perla tab in the upper right corner of your screen
 
 ### 14th North American Plecoptera Symposium occurs 12–14 May 2026 at the Highland Biological Station, Highlands, North Carolina
 
-See [Draft Agenda](/docs/Draft Agenda 14th NAPS.pdf) with registration instructions
+See [Draft Agenda](/docs/Draft_Agenda_14th_NAPS.pdf) with registration instructions
 
 </div>
