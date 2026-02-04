@@ -21,11 +21,9 @@ Welcome! Our [About](about) page contains an [overview](about#overview) and [his
 
 ## Announcements
 
-### Volume 43 of Perla is ready to download! 
+### Volume 43 of Perla is ready to download! [Click here](/perla/Perla_vol_43_12-11-25.pdf)
 
-Click on the Perla tab in the upper right corner of your screen
-
-### 14th North American Plecoptera Symposium occurs 12–14 May 2026 at the Highland Biological Station, Highlands, North Carolina
+### 14th North American Plecoptera Symposium occurs 12–14 May 2026 at the Highland Biological Station, Highlands, North Carolina. 
 
 See [Draft Agenda](/docs/Draft_Agenda_14th_NAPS.pdf) with registration instructions
 
