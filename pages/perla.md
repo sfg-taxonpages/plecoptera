@@ -10,8 +10,6 @@ PERLA is the Annual Newsletter and Bibliography of the International Society of 
 
 ## Most recent
 
-<GalleryMosaic :depiction-id="[1210703]" image-width="100px" class="w-28"  />
-
 [Perla No. 43. 2025.](/perla/Perla_vol_43_12-11-25.pdf)
 
 ## Past issues
