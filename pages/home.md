@@ -3,7 +3,7 @@ layout: blank
 ---
 
 <GalleryCarousel :depiction-id="[1106932,1106926,1106927,1106931,1106937,1106929,1106936,1106924,1106925,1106930,1106933,1106934,1106935, 1058997,1059008,1059047,1106921]" height="470px">
-  <div class="flex flex-col justify-center items-center w-full h-full bg-black bg-opacity-25 text-white gap-4 px-4 box-border">
+  <div class="flex flex-col justify-center items-center w-full h-full bg-black/25 text-white gap-4 px-4 box-border">
     <span class="text-4xl font-medium">{{ app:project_name }}</span>
     <p class="text-lg sm:text-xl">A comprehensive source of knowledge on the world’s stoneflies, curated by the Plecoptera Species File group</p>
     <div class="mx-auto flex flex-col items-center mt-6 sm:mt-10 w-full">
