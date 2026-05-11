@@ -21,7 +21,7 @@ jobs:
         run: npm install
 
       - name: Install latest TaxonPages version
-        run: npm install @sfgrp/taxonpages
+        run: npm install @sfgrp/taxonpages@latest
 
       - name: Build public view
         run: npm run build
