@@ -5,11 +5,16 @@
     - label: Home
       link: /
 
-    - label: Search DwC
-      link: /resources/tw/filter/dwc_otus
-
     - label: About
       link: /about
 
     - label: Perla
       link: /perla
+
+    - label: Bibliography
+      link: /resources/tw/filter/bibliography 
+
+    - label: Search DwC
+      link: /resources/tw/filter/dwc_otus
+
+   
