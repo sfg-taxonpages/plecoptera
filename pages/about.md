@@ -50,12 +50,12 @@ _We welcome you to join us in our efforts! Projects of this nature require exper
 | :--------------- | :------------------------------------------------------ | :---------- | :--------------------- |
 | R. Edward DeWalt | University of Illinois, Illinois Natural History Survey | Author      | dewalt@illinois.edu    |
 | Heidi Hopkins    | University of Illinois, Illinois Natural HIstory Survey | Author      | cockroachdoc@gmail.com |
-| Mike Maehr*      | University of Illinois, Illinois Natural History Survey | Author      |                        |
 | U. Neu-Becker    | Max-Planck Institute                                    | Author      |                        |
 | G. Stueber       | Max-Planck Institute                                    | Author      |                        |
 | Lily Hart        | University of Illinois, Illinois Natural History Survey | Editor      | lvhart2@illinois.edu   |
 | Matt Yoder       | University of Illinois, Illinois Natural History Survey | Facilitator |                        |
-| Rich Flood       | University of Illinois, Illinois Natural History Survey | Facilitator |                        |
+| Mike Maehr*      | University of Illinois, Illinois Natural History Survey | Author      |                        |
+| Rich Flood*      | University of Illinois, Illinois Natural History Survey | Facilitator |                        |
 | Elizabeth Frank* | University of Illinois, Illinois Natural History Survey | Facilitator |                        |
 | Jim Tucker*      | University of Illinois, Illinois Natural History Survey | Facilitator |                        |
 | Marilyn Beckman* | University of Illinois, Illinois Natural History Survey | Facilitator |                        |
