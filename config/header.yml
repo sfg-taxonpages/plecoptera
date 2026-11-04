@@ -17,4 +17,6 @@
     - label: Search DwC
       link: /resources/tw/filter/dwc_otus
 
+    - label: Recent
+      link: /recent
    
