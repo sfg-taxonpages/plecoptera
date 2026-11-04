@@ -13,6 +13,8 @@ layout: blank
   </div>
 </GalleryCarousel>
 
+<HomeCounters :taxon-name-id="998323" />
+
 <div class="container mx-auto my-8 px-4 md:px-0 box-border">
 
 ## Discover more
