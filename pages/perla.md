@@ -10,9 +10,11 @@ PERLA is the Annual Newsletter and Bibliography of the International Society of 
 
 ## Most recent
 
-[Perla No. 43. 2025.](/perla/Perla_vol_43_12-11-25.pdf)
+Volume 44 of Perla is ready to download! [Clcik here](/perla/Perla 44_v3.pdf)
 
 ## Past issues
+
+[Perla No. 43. 2025.](/perla/Perla_vol_43_12-11-25.pdf)
 
 [Perla No. 42. 2024.](/perla/Perla_vol_42_11-12-24.pdf)
 
