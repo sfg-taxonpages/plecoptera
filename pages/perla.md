@@ -10,7 +10,7 @@ PERLA is the Annual Newsletter and Bibliography of the International Society of 
 
 ## Most recent
 
-Volume 44 of Perla is ready to download! [Clcik here](/perla/Perla 44_v3.pdf)
+Volume 44 of Perla is ready to download! [Click here](/perla/Perla 44_v3.pdf)
 
 ## Past issues
 
