@@ -1,3 +1,9 @@
+taxa_page_regions:
+  taxa_page:header:taxonname:after:
+    - id: panel:extinct
+      bind:
+        keyword_id:
+          - 2057
 taxa_page:
   overview:
     panels:
